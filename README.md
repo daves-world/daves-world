@@ -1,6 +1,6 @@
 ## Welcome 👋
 
-**I’m a Data Analyst with 5+ years of experience helping businesses uncover actionable insights that drive growth. Skilled in SQL, Power BI, Python and R, I specialize in building scalable BI solutions, predictive modeling, and market research. My work has resulted in a 25% improvement in customer value and a 30% increase in sales performance for the companies I’ve partnered with. Passionate about turning raw data into strategic decisions and mentoring others to excel in data analytics.
+I’m a Data Analyst with 5+ years of experience helping businesses uncover actionable insights that drive growth. Skilled in SQL, Power BI, Python and R, I specialize in building scalable BI solutions, predictive modeling, and market research. My work has resulted in a 25% improvement in customer value and a 30% increase in sales performance for the companies I’ve partnered with. Passionate about turning raw data into strategic decisions and mentoring others to excel in data analytics.
 
 My areas of expertise are: 
 
